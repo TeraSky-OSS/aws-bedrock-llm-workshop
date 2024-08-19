@@ -18,7 +18,7 @@ Our lab consist of a notebook provides sample code for building an Agent for Ama
 2. Run git clone
 
 ```python
-cd /home/ec2-user/SageMaker/ && git clone https://github.com/TeraSky-OSS/aws-bedrock-it-agent.git
+cd /home/ec2-user/SageMaker/ && git clone https://github.com/TeraSky-OSS/bedrock-it-support-ticket-agent.git
 ```
 
 
