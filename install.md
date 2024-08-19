@@ -2,7 +2,7 @@
 
 1. Sign into the AWS Management Console and open the Amazon Bedrock console at [https://console.aws.amazon.com/bedrock/](https://console.aws.amazon.com/bedrock/).
 
-3. For the purposes of this tutorial, you should be in the US East (N. Virginia) (us-east-1) Region. To change regions, choose the Region name at the top right of the console, next to your IAM role. Then select US East (N. Virginia) (us-east-1).
+3. For the purposes of this tutorial, you should be in the US West (Oregon) us-west-2 Region. To change regions, choose the Region name at the top right of the console, next to your IAM role. Then select US West (Oregon) us-west-2.
 
 4. Select **Model access** at the bottom of the left navigation pane.
 
