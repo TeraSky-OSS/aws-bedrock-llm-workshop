@@ -143,7 +143,7 @@ At this point it's seems our agent know something about security , so let's ask 
 
 ```json
 
-give me one most important current security risk in the following IAM policy:
+Describe the following IAM policy:
 
 
 {
@@ -168,11 +168,12 @@ give me one most important current security risk in the following IAM policy:
                 "ec2:DescribeInstances"
             ],
             "Resource": [
-                "arn:aws:ec2:region:account-id:instance/instance-id"
+                "arn:aws:ec2:us-west-2:123456789012:instance/i-0abc12345def6789a"
             ]
         }
     ]
 }
+
 
 ```
 

@@ -11,7 +11,7 @@ Go to Bedrock and select Playground->Chats
 
 
 Now Click on **Select Model** button , and select the model based on the execise 
-(like Anthropic Claude Model)
+(like Anthropic Claude Model or Titan Text G1 - Express v1)
 
    ![image](prompt_intro/images/playground_select_model.png)
 
@@ -28,7 +28,7 @@ Now Let write our prompts
 Zero Shot prompting describes the technique where you present a task to an LLM without giving it further examples. You, therefore, expect it to perform the task without getting a prior look.
 
 Modern LLMs demonstrate remarkable zero-shot performance, and a positive correlation can be drawn between model size and zero-shot performance.
-Here is an example of a prompt , use it in the playground with Anthropic Claude model
+Here is an example of a prompt , use it in the playground with Anthropic Claude model.
 
 ```python
 Human:
@@ -53,7 +53,7 @@ The "Assistant" part of the prompt in the Zero-Shot example is included to simul
 
 Giving the model more information about the tasks at hand via examples is called Few-Shot Prompting. It can be used for in-context learning by providing examples of the task and the desired output. You can therefore condition the model on the examples to follow the task guidance more closely.
 
-Here is an example of a prompt , use it in the playground with Amazon Titan model
+Here is an example of a prompt , use it in the playground with **Amazon Titan model**
 
 ```python
 Deployment Log: "Application failed to connect to the database during startup.”: Issue: Database Connection Error
@@ -72,7 +72,7 @@ Examine the executed prompted in Amazon Bedrock text playground
 
 Chain-of-Thought (CoT) prompting breaks down complex reasoning tasks through intermediary reasoning steps. Chain-of-Thought prompts are usually very specific to a problem type. One can try to invoke CoT reasoning by using the trigger phrase "(Think Step-by-Step)". Let's examine the following example of a few-shot CoT prompt.
 
-Here is an example of a prompt , use it in the playground with e Amazon Titan model
+Here is an example of a prompt , use it in the playground with  **Amazon Titan model**
 
 ```python
 A company's server experiences downtime over three consecutive days as follows:
