@@ -11,6 +11,9 @@
 
 5. On the **Model access** page, you can review the End User License Agreement (EULA) for models in the **EULA** column in the **Base models** table.
 
+   ![image](install/images/model_access.png)
+
+
 6. Choose **Modify model access**.
 
 7. Do one of the following:
@@ -25,6 +28,9 @@
 
 
 9. Review the models that you're requesting access to and the **Terms**. When you're ready, choose **Submit** to request access.
+
+   ![image](install/images/review_terms.png)
+
 
 10. Access may take several minutes to complete. When access is granted to a model, the **Access status** for that model will become **Access granted** , you may get some license aggrement issues on some of the models that cannot be activated in the lab env and you can safely ignore it.
 
