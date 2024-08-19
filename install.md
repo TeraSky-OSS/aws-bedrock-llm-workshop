@@ -57,23 +57,25 @@ An Amazon SageMaker notebook instance is a fully-managed machine learning (ML) A
    Please select **Amazon Linux 2, Jupyter Lab 3**
    
    4. For **IAM role**, choose **Select existing role**, and then choose **sagemaker-kb-NoteBookRole**.
-   
-   For our lab please add **AdministratorAccess** policy to our role  (definitely don't try this at home, or, you know, in your real production environment!)
-   
-   ![image](install/images/iam_role.png)
-
-   
+      
    5. Choose **Create notebook instance**.
    
       In a **few minutes**, SageMaker launches a notebook instance and attaches a 5 GB Amazon EBS storage volume to it. The notebook instance has a preconfigured Jupyter notebook server, SageMaker and AWS SDK libraries, and a set of Anaconda libraries.
       
       For more information about creating a SageMaker notebook instance, see [Create a Notebook Instance](https://docs.aws.amazon.com/sagemaker/latest/dg/howitworks-create-ws.html).
 
-   ![image](install/images/notebook_pending.png)
+   ![image](install/images/notebook_pending_state.png)
 
-   6. When the Status of the notebook instance is **InService**, choose the instance and then choose **Open JupyterLab**.
 
-   ![image](install/images/notebook_inservice.png)
+   6. For our lab please add **AdministratorAccess** policy to our role  (definitely don't try this at home, or, you know, in your real production environment!)
+
+ [   Open IAM **sagemaker-kb-NoteBookRole** role](https://us-east-1.console.aws.amazon.com/iam/home?region=us-west-2#/roles/details/sagemaker-kb-NoteBookRole?section=permissions)
+   
+   ![image](install/images/iam_role.png)
+
+   7. When the Status of the notebook instance is **InService**, choose the instance and then choose **Open JupyterLab**.
+
+   ![image](install/images/notebook_inservice_state.png)
 
 
 ## Install lab setup 

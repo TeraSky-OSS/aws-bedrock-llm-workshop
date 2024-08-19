@@ -7,13 +7,13 @@ Our lab consist of a notebook provides sample code for building an Agent for Ama
 
 1. Go to AWS Sagemaker and select Notebooks **InService**, choose the instance and then choose **Open JupyterLab**.
 
-   ![image](it-agent/images/notebook_inservice.png)
+   ![image](it-agent/images/notebook_in_service.png)
 
 
 
 2. In the notebook Launcher select terminal 
 
-   ![image](it-agent/images/conda.png)
+   ![image](it-agent/images/notebook_launcher.png)
 
 2. Run git clone
 
