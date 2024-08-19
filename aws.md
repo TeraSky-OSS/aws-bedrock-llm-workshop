@@ -15,3 +15,6 @@ AWS Workshop Studio will be open now , for our workshop just click on  **"AWS ac
 After login make sure your Federated user is **WSParticipantRole/Participant** and the region is **US West 2 (Oregon)**.
 
    ![image](aws/images/after_login.png)
+
+
+## [Back to Labs](https://github.com/TeraSky-OSS/aws-bedrock-llm-workshop/tree/main?tab=readme-ov-file#labs-overview)

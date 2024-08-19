@@ -120,4 +120,4 @@ Extract username, IP address, and error details from the log entries as a table
 ![image](prompt_intro/images/log_extraction.png)
 
 
-
+## [Back to Labs](https://github.com/TeraSky-OSS/aws-bedrock-llm-workshop/tree/main?tab=readme-ov-file#labs-overview)

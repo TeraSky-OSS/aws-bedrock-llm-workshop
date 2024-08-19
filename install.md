@@ -183,5 +183,4 @@ Output should be something like
 ![image](install/images/install2.png)
 
 
-## [Back to Labs](../README.md)
-
+## [Back to Labs](https://github.com/TeraSky-OSS/aws-bedrock-llm-workshop/tree/main?tab=readme-ov-file#labs-overview)

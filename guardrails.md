@@ -258,5 +258,7 @@ The following prompt should be blocked due to PII:
 **Versions**
 **Create version**
 
-
    ![image](guardrails/images/create_version.png)
+   
+
+## [Back to Labs](https://github.com/TeraSky-OSS/aws-bedrock-llm-workshop/tree/main?tab=readme-ov-file#labs-overview)

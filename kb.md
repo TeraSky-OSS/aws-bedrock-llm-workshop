@@ -263,3 +263,4 @@ What are we missing here ?
 ![Alt text](kb/images/take2.png)
 
 
+## [Back to Labs](https://github.com/TeraSky-OSS/aws-bedrock-llm-workshop/tree/main?tab=readme-ov-file#labs-overview)

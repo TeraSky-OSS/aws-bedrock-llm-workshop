@@ -118,3 +118,6 @@ Metrics can be used to set alarms that watch for certain thresholds, and then se
 [CloudWatch anomaly detection](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Anomaly_Detection.html)
 
    ![image](cloudwatch/images/alert.png)
+
+## [Back to Labs](https://github.com/TeraSky-OSS/aws-bedrock-llm-workshop/tree/main?tab=readme-ov-file#labs-overview)
+

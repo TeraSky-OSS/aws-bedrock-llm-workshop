@@ -42,3 +42,6 @@ Click on the "Run" button in the toolbar at the top of the notebook.
 To execute a cell, you can either:
   - Click on the cell and then press `Shift + Enter`.
   - Click on the "Run" button in the toolbar at the top of the notebook.
+
+
+## [Back to Labs](https://github.com/TeraSky-OSS/aws-bedrock-llm-workshop/tree/main?tab=readme-ov-file#labs-overview)
