@@ -181,3 +181,7 @@ except (ClientError, Exception) as e:
 
 Output should be something like
 ![image](install/images/install2.png)
+
+
+## [Back to Labs](../README.md)
+
