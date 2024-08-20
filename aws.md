@@ -1,8 +1,3 @@
-## AWS Workshop link
-
-   ![image](aws/images/workshop_link.jpeg)
-
-
 ## Setup new AWS Overview
 
 
