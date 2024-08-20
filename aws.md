@@ -1,6 +1,13 @@
+## AWS Workshop link
+
+   ![image](aws/images/workshop_link.jpeg)
+
+
 ## Setup new AWS Overview
 
- You should recieve an email from AWS to join AWS workshop ,open the link and review the terms and conditions and click **"Review and Join"** button.
+
+Click on the following link [workshop aws env](https://catalog.us-east-1.prod.workshops.aws/join?access-code=2fe8-03a0fe-75) to join AWS workshop ,open the link and review the terms and conditions and click **"Review and Join"** button.
+
    ![image](aws/images/new_workshop.png)
 
 ## Connect to AWS Console
